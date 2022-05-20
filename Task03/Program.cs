@@ -10,7 +10,7 @@ PrintArray(array);
 for ( int i = 0; i < array.Length; i++)
 {
     if ( array[i] % 2 == 0) 
-    a = a + 1;
+    a = a + 1;  // наш счетчик
     else 
     b = b + 1;
     
